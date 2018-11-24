@@ -1,0 +1,12 @@
+.card{
+  height: 300px;
+  margin-bottom: 25px;
+}
+.card-text:last-child{
+  height: 200px;
+  overflow-y: scroll;
+}
+.textarea-input{
+  height: 100px !important;
+  margin-bottom: 15px !important;
+}
